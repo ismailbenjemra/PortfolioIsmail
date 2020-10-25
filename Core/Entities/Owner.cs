@@ -1,6 +1,6 @@
 ﻿namespace Core.Entities
 {
-    class Owner :EntityBase
+    public class Owner :EntityBase
     {
         public string FullName { get; set; }
         //avatar,Profil
